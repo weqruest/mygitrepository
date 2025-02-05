@@ -1,2 +1,6 @@
 0001
+<<<<<<< HEAD
 no no 0002 no no 0003
+=======
+no no delete this shit 0002 0003
+>>>>>>> eaefa70c6df441a7a5688a8ac3ddcc6371dc94e1
